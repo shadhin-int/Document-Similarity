@@ -1,0 +1,5 @@
+It is hard from the standpoint of the child, who must spend many years acquiring a language.
+it is hard for the adult language learner, it is hard for the scientist who attempts to model the relevant phenomena,
+ and it is hard for the engineer who attempts to build systems that deal with natural language input or output. 
+ These tasks are so hard that Turing could rightly make fluent conversation in natural language the centerpiece of 
+ his test for intelligence.
